@@ -1,6 +1,12 @@
 # Netflix GPT
  - npx create-react-app netflix-gpt
  - configured Tailwind Css
+ - Header
+ - Routing of App
+ - Login Form
+ - Sign Up Form
+ - Form Validation
+ - useRef Hook
  
 
  # Features
@@ -9,13 +15,11 @@
     - Redirect to browse page
  - Browse (after authentication)
     - Header
-    - Login Form
-
     - Main Movie
         - Trailer in background
         - Title & Description
         - MovieSuggestions
             - Movie Lists*N
-    - NetflixGPT
+- NetflixGPT
         - Search Bar
         - Movie Suggestions        
