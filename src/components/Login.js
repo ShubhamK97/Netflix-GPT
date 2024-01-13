@@ -49,7 +49,6 @@ const Login = () => {
       const errorMessage = error.message;
       setErrorMessage(errorCode+"-"+errorMessage);
       });
-
     }
   }
   const toggleSignInForm = ()=>{
