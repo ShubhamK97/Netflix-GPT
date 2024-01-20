@@ -51,7 +51,7 @@ const Header = () => {
         <img className="w-12 h-12"
           src={USER_AVATAR}
           alt="usericon"/>
-          <button onClick={handleSignOut} className="font-bold">Sign out</button>
+          <button onClick={handleSignOut} className="font-bold">(Sign out)</button>
         </div> 
       }     
     </div>
