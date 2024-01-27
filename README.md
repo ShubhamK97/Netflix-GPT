@@ -36,7 +36,11 @@
  - usePopularMovies custom hook
  - useTopRatedMovies custom hook
  - useUpcomingMovies custom hook
-
+ - GPT Search Page
+ - GPT search Bar
+ - (BONUS) Multi-language Feature in our App
+ - Memoization for save to call the API again and again
+ --OpenAI uses Bills & suggestion
  # Features
  - Login/Sign Up
     - Sign In/Sign Up Form
